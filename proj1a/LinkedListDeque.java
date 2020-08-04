@@ -1,4 +1,6 @@
-public class LinkedListDeque<T> {
+
+
+public class LinkedListDeque<T>   {
     private int size;
 
     private class node {
